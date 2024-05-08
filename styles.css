@@ -1,0 +1,29 @@
+.wrapper {
+    background-color: white;
+    position: absolute;
+    top: 0px;
+    margin: 10px;
+    width: 50%;
+}
+.special-heading {
+    color: blue;
+}
+.body {
+    background-color: gray;
+    height: 200px;
+    padding-top: 50px;
+}
+.p1, .p2 {
+    box-sizing: content-box;
+   background-color: white;
+   margin-top: 10px;
+   height: auto;
+}
+.empty1, .empty2, .p3 {
+    width: 200px;
+    height: 100px;
+    position:static
+}
+.highlight {
+    background-color: white;
+}
